@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LudoClassic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/action_bar</item>
+        <item name="colorPrimaryVariant">@color/action_bar</item>
+        <item name="colorOnPrimary">@color/action_bar</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/action_bar</item>
+        <item name="colorSecondaryVariant">@color/action_bar</item>
+        <item name="colorOnSecondary">@color/action_bar</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
